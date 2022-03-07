@@ -1,11 +1,11 @@
 # Hello World
 
-This is hello world in multiple programmnig languages
+This is hello world in multiple programming languages
 
 ### List of Languages added
 
--C
-
--Java
-
--Python
+- C
+- C++
+- Java
+- Python
+- Rust
