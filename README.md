@@ -9,3 +9,4 @@ This is hello world in multiple programming languages
 - Java
 - Python
 - Rust
+- x86-64 ASM for Linux (NASM)
